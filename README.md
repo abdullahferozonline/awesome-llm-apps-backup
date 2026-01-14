@@ -13,52 +13,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
 - 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
-
-## 🙏 Thanks to our sponsors
-
-<table align="center" cellpadding="16" cellspacing="12">
-  <tr>
-    <td align="center">
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" title="Tiger Data">
-        <img src="docs/banner/sponsors/tigerdata.png" alt="Tiger Data" width="500">
-      </a>
-      <br>
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Tiger Data MCP
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" title="Speechmatics">
-        <img src="docs/banner/sponsors/speechmatics.png" alt="Speechmatics" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Speechmatics
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" title="Okara">
-        <img src="docs/banner/sponsors/okara.png" alt="Okara" width="500">
-      </a>
-      <br>
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Okara AI
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
-      </a>
-      <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Become a Sponsor
-      </a>
-    </td>
-  </tr>
-</table>
-
+--- 
 ## 📂 Featured AI Projects
 
 ### AI Agents
@@ -195,6 +150,11 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
   - Memory; callbacks; evaluation
   - Multi‑agent patterns; agent handoffs
   - Swarm orchestration; routing logic
+---
+## Our Best Contributors
+* Syed Ayan Abbas
+* Amir Hasan
+---
 
 ## 🚀 Getting Started
 
@@ -217,10 +177,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-
-### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+---
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
